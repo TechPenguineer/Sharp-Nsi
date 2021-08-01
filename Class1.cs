@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace Sharp_NSI
+namespace SharpNsi
 {
-    public class Class1
+    public class SharpNsi
     {
     }
 }
